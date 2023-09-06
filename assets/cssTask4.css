@@ -1,0 +1,38 @@
+
+
+.gr{
+    top: 20px;
+    background-color: #04AA6D;
+    color: black;
+    
+ 
+  
+
+    
+}
+.bl{
+    margin-top: 100px;
+    color: red;
+    padding: 30px;
+    background-color: lightskyblue;
+    
+
+}
+.bad a{
+    position: fixed;
+    left: 0px; 
+    padding: 20px; 
+    width: 140px;  
+    font-size: 30px; 
+    border-radius: 0 5px 5px 0; 
+}
+.re{
+    margin-top: 190px;
+    background-color: red;
+    color: aliceblue;
+}
+.black{
+    margin-top: 280px;
+    color: white;
+    background-color: black;
+}

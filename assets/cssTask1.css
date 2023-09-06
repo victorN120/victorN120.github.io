@@ -1,0 +1,8 @@
+.tamanna{
+    border: solid;
+    border-radius:20px  ;
+}
+th,td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
